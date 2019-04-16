@@ -19,7 +19,6 @@ List of problems selected:
 
 **Day 5**: 
 - Poisson Distribution I
-- Normal Distribution I
 - Normal Distribution II
 
 **Day 6**:	
