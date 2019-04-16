@@ -9,7 +9,8 @@ List of problems selected:
 - Mean, Median, and Mode
 
 **Day 1**: 
-- Quartiles, Interquartile Range
+- Quartiles
+- Interquartile Range
 
 **Day 4**:
 - Binomial Distribution I
